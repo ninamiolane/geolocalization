@@ -1,0 +1,441 @@
+257
+IMG_0293:48.7116666:2.2101349:Jardin entre Bôbar et Foch:Post-it:1
+IMG_0294:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0295:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0296:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0297:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0298:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0299:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0300:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0301:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0302:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0303:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0304:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0305:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0306:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0307:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0308:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0309:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0310:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0311:48.7136824 2.2100008:PC devant la cour vaneau::11
+DSC05819:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05820:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05821:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05822:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05823:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05824:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05825:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05826:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05827:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05828:48.7109303:2.2089212:Sortie parking des élèves::5
+DSC05829:48.7098056:2.2103119:Arrêt de bus::2
+DSC05830:48.7098056:2.2103119:Arrêt de bus::2
+DSC05831:48.7098056:2.2103119:Arrêt de bus::2
+DSC05832:48.7098056:2.2103119:Arrêt de bus::2
+DSC05833:48.7098056:2.2103119:Arrêt de bus::2
+DSC05834:48.7098056:2.2103119:Arrêt de bus::2
+DSC05835:48.7098056:2.2103119:Arrêt de bus::2
+DSC05836:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05837:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05838:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05839:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05840:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05841:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05842:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05843:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05844:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05845:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+DSC05846:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05847:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05848:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05849:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05850:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05851:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05852:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05853:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05854:48.7115153:2.2106633:Devant le Petit Boncourt::9
+DSC05855:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05856:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05857:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05858:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05859:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05860:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05861:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05862:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05863:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05864:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05865:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05866:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05867:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05868:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05869:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05870:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05871:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05872:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05873:48.7116755:2.2111917:Entre le Petit Boncourt et la Piscine::22
+DSC05874:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+DSC05875:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+DSC05876:48.7119162:2.2106713:Mosaïque Taureau Kespagnol au Bataclan::14
+DSC05877:48.7119162:2.2106713:Mosaïque Taureau Kespagnol au Bataclan::14
+DSC05878:48.7119162:2.2106713:Mosaïque Taureau Kespagnol au Bataclan::14
+DSC05879:48.7119162:2.2106713:Mosaïque Taureau Kespagnol au Bataclan::14
+DSC05880:48.7119162:2.2106713:Mosaïque Taureau Kespagnol au Bataclan::14
+DSC05881:48.7124613:2.2114760:Mosaïque Bicorne Caroline Aigle::15
+DSC05882:48.7124613:2.2114760:Mosaïque Bicorne Caroline Aigle::15
+DSC05883:48.7124613:2.2114760:Mosaïque Bicorne Caroline Aigle::15
+DSC05884:48.7124613:2.2114760:Mosaïque Bicorne Caroline Aigle::15
+DSC05885:48.7124613:2.2114760:Mosaïque Bicorne Caroline Aigle::15
+DSC05886:48.7127223:2.2122984:Parking et entrée du Magnan::13
+DSC05887:48.7127223:2.2122984:Parking et entrée du Magnan::13
+DSC05888:48.7127223:2.2122984:Parking et entrée du Magnan::13
+DSC05889:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05890:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05891:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05892:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05893:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05894:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05895:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05896:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05897:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+DSC05898:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0451:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0452:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0453:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0454:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0455:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0456:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0457:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0458:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0459:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0460:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0461:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0462:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0463:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0464:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0465:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0466:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0467:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0468:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0469:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0470:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0471:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0472:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0473:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0474:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0475:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0476:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0477:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0478:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0479:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0480:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0481:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0482:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0483:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0484:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0485:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0486:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0487:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0488:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0489:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0490:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0491:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0492:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0493:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0494:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0495:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0496:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0497:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0498:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0499:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0500:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0501:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0502:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0503:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0504:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0505:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0506:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0507:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0508:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0509:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0510:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0511:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0512:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0513:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0514:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0515:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0516:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0517:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0518:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0519:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0520:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0521:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0522:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0523:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0524:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0525:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0526:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0527:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0528:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0529:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0530:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0531:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0532:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0533:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0534:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0535:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0536:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0537:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0538:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0539:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0540:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0541:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0542:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0543:48.7108082:2.2120231:Entre Maunoury/Joffre et les Roujes::30
+IMG_0544:48.7108082:2.2120231:Entre Maunoury/Joffre et les Roujes::30
+IMG_0545:48.7108082:2.2120231:Entre Maunoury/Joffre et les Roujes::30
+IMG_0546:48.7111834:2.2121090:Entre Joffre et T5/T6::31
+IMG_0547:48.7111834:2.2121090:Entre Joffre et T5/T6::31
+IMG_0548:48.7111834:2.2121090:Entre Joffre et T5/T6::31
+IMG_0549:48.7111834:2.2121090:Entre Joffre et T5/T6::31
+IMG_0550:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0551:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0552:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0553:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0554:48.7132237:2.2100705:Amphi Arago::12
+IMG_0555:48.7132237:2.2100705:Amphi Arago::12
+IMG_0556:48.7132237:2.2100705:Amphi Arago::12
+IMG_0557:48.7132237:2.2100705:Amphi Arago::12
+IMG_0558:48.7132237:2.2100705:Amphi Arago::12
+IMG_0559:48.7132237:2.2100705:Amphi Arago::12
+IMG_0560:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0561:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0562:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0563:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0564:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0565:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0566:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0567:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0568:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0569:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0570:48.7136824:2.2100008:PC devant la cour vaneau::11
+IMG_0571:48.7136046:2.2095448:Intersection des deux couloirs de PC/Passerelle Grand Boncourt:: 34
+IMG_0572:48.7136046:2.2095448:Intersection des deux couloirs de PC/Passerelle Grand Boncourt:: 34
+IMG_0573:48.71326832.2095501:PC menant à la scola::16
+IMG_0574:48.71326832.2095501:PC menant à la scola::16
+IMG_0575:48.71326832.2095501:PC menant à la scola::16
+IMG_0576:48.71326832.2095501:PC menant à la scola::16
+IMG_0577:48.71326832.2095501:PC menant à la scola::16
+IMG_0578:48.7131126:2.2094750:Devant la scola::35
+IMG_0579:48.7131126:2.2094750:Devant la scola::35
+IMG_0580:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0581:48.7131515:2.2087133:Passerelle pour les laboratoires::36
+IMG_0582:48.7131515:2.2087133:Passerelle pour les laboratoires::36
+IMG_0583:48.7131515:2.2087133:Passerelle pour les laboratoires::36
+IMG_0584:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0585:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0586:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0587:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0588:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0589:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0590:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0591:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0592:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0593:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0594:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0595:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0596:48.7119445:2.2093248:Couloir de Langues/Lien vers Bataclan::18
+IMG_0597:48.7119445:2.2103226:Couloir du Bataclan::33
+IMG_0598:48.7119445:2.2103226:Couloir du Bataclan::33
+IMG_0599:48.7119020:2.2097433:Binet Loisirs::32
+IMG_0600:48.7119020:2.2097433:Binet Loisirs::32
+IMG_0601:48.7119020:2.2097433:Binet Loisirs::32
+IMG_0602:48.7119020:2.2097433:Binet Loisirs::32
+IMG_0603:48.7119020:2.2097433:Binet Loisirs::32
+IMG_0604:48.7118914:2.2099739:BôBar::20
+IMG_0605:48.7118914:2.2099739:BôBar::20
+IMG_0606:48.7118914:2.2099739:BôBar::20
+IMG_0607:48.7118914:2.2099739:BôBar::20
+IMG_0608:48.7118914:2.2099739:BôBar::20
+IMG_0737:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0738:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0739:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0740:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0741:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0742:48.7118914:2.2099739:BôBar::20
+IMG_0743:48.7118914:2.2099739:BôBar::20
+IMG_0745:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0747:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0748:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0754:48.7136046:2.2095448:Intersection des deux couloirs de PC/Passerelle Grand Boncourt:: 34
+IMG_0755:48.71326832.2095501:PC menant à la scola::16
+IMG_0756:48.71326832.2095501:PC menant à la scola::16
+IMG_0757:48.71326832.2095501:PC menant à la scola::16
+IMG_0760:48.7131515:2.2087133:Passerelle pour les laboratoires::36
+IMG_0761:48.7131515:2.2087133:Passerelle pour les laboratoires::36
+IMG_0762:48.7131515:2.2087133:Passerelle pour les laboratoires::36
+IMG_0764:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+IMG_0765:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+IMG_0766:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+IMG_0767:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+IMG_0768:48.7109640:2.2098345:Jardin entre Foch et Fayolle::3
+IMG_0769:48.7098056:2.2103119:Arrêt de bus::2
+IMG_0770:48.7098056:2.2103119:Arrêt de bus::2
+IMG_0772:48.7108082:2.2120231:Entre Maunoury/Joffre et les Roujes::30
+IMG_0773:48.7108082:2.2120231:Entre Maunoury/Joffre et les Roujes::30
+IMG_0774:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0775:48.7106419:2.2129726:Bâtiments des Rouges, Place du Village::27
+IMG_0776:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0777:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0778:48.7100259:2.2132248:Parking des Roujes, Devant l'Infirmerie::29
+IMG_0779:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0780:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0781:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0782:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0783:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0784:48.7106206:2.2138041:Devant le Bureau Logement::28
+IMG_0785:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0786:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0787:48.7119409:2.2133696:Devant le Grand Gymnase::25
+IMG_0788:48.7114737:2.2128063:Entre les Gymnases T5 et T6::26
+IMG_0789:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0790:48.7127621:2.2140563:Intersection Magnan/Parking/Chemin menant à Bienvenue/Grand Gymnase::24
+IMG_0791:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0792:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0795:48.7127223:2.2122984:Parking et entrée du Magnan::13
+IMG_0796:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0797:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0798:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0799:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0800:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0801:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0802:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0803:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0804:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0805:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0806:48.7139833:2.2128600:Intersection de routes: Cour Vaneau/Lac/Magnan::23
+IMG_0807:48.7109303:2.2089212:Sortie parking des élèves::5
+IMG_0808:48.7109303:2.2089212:Sortie parking des élèves::5
+IMG_0809:48.7109303:2.2089212:Sortie parking des élèves::5
+IMG_0810:48.7109303:2.2089212:Sortie parking des élèves::5
+IMG_0811:48.7109303:2.2089212:Sortie parking des élèves::5
+IMG_0812:48.7109303:2.2089212:Sortie parking des élèves::5
+IMG_0813:48.7109303:2.2089212:Sortie parking des élèves::5
+IMG_0814:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0815:48.7131373:2.2090888:Couloir des Langues/Salles Infos/Escaliers::19
+IMG_0816:48.7131515:2.2087133:Passerelle pour les laboratoires::36
+IMG_0817:48.7131126:2.2094750:Devant la scola::35
+IMG_0818:48.7131126:2.2094750:Devant la scola::35
+IMG_0819:48.7132237:2.2100705:Amphi Arago::12
+IMG_0820:48.7132237:2.2100705:Amphi Arago::12
+IMG_0821:48.7132237:2.2100705:Amphi Arago::12
+IMG_0822:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0823:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0824:48.7122276:2.2106820:Couloir des Nouveaux Amphis::21
+IMG_0825:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0826:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0827:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0828:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0829:48.7119162:2.2106713:Mosaïque/Entree Couloir des Nouveaux Amphis:14
+IMG_0830:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0831:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0832:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0833:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0834:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0835:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0836:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0837:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0838:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0839:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0840:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0841:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0842:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0843:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0844:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0845:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0846:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0846:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0846:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0847:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0848:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0849:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0850:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0851:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0852:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0853:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0854:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0855:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0856:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0857:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0858:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0859:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0860:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0861:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0862:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0863:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0864:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0865:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0866:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0867:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0868:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0869:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0870:48.7116666:2.2101349:Jardin entre Bôbar et Foch::1
+IMG_0871:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0872:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0873:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0874:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0875:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0876:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0877:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0878:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0879:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0880:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0881:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0882:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0883:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0884:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0885:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0886:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0887:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0888:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0889:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0890:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0891:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0892:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0893:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0894:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0895:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0896:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0897:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0898:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0899:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0900:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0901:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0902:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0903:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0904:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0905:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0906:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0907:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0908:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0909:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0910:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0911:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0912:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0913:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0914:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0915:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0916:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0917:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0918:48.7135550:2.2105533:Grand Hall devant le Salon d'Honneur::17
+IMG_0919:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0920:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0921:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0922:48.7132362:2.2105305:Grand Hall devant la DE::7
+IMG_0923:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0924:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0925:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0926:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0927:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0928:48.7129648:2.2105359:Grand Hall devant les banques::6
+IMG_0929:48.7129648:2.2105359:Grand Hall devant les banques::6
+coordonnes salle soutenance: 40.7140223:2.2076033
